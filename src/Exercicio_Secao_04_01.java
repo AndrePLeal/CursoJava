@@ -10,8 +10,10 @@ public class Exercicio_Secao_04_01 {
 		int z;
 		
 		Scanner sc = new Scanner(System.in);
-				
+		
+		System.out.println("informe conteudo de x : ");
 		x = sc.nextInt();
+		System.out.println("informe conteudo de x : ");			
 		y = sc.nextInt();
 		z = x + y;
 		
